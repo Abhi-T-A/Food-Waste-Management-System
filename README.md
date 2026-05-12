@@ -262,6 +262,6 @@ spring.datasource.password=yourpassword
 
 # 👨‍💻 Developed By
 
-## Abhi TA
+## Abhi T A
 
 Food Waste Management System – Full Stack Project
